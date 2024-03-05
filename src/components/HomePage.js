@@ -1,7 +1,7 @@
 import React from "react";
 
 const HomePage = () => {
-    const navigate = useNavigate();
+    
     return (
         <div>
             <header>
@@ -10,7 +10,7 @@ const HomePage = () => {
             <main>
                 <p>Welcome to my simple React homepage! This is a basic example of a React project.</p>
                 <img src="https://via.placeholder.com/300" alt="placehold" />
-                <button onClick={() => navigate("")}> About Me </button>
+                
             </main>
         </div>
     );
