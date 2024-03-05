@@ -5,7 +5,9 @@ const HomePage = () => {
     return (
         <div>
             <header>
-                <h1>My Grey Bunny</h1>
+                <center> 
+                    <h1>My Grey Bunny</h1>
+                </center>
             </header>
             <main>
                 <p>Welcome to my simple React homepage! This is a basic example of a React project.</p>
