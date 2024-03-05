@@ -10,7 +10,6 @@ const HomePage = () => {
             <main>
                 <p>Welcome to my simple React homepage! This is a basic example of a React project.</p>
                 <img src="https://via.placeholder.com/300" alt="placehold" />
-                
             </main>
         </div>
     );
