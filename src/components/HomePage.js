@@ -1,13 +1,11 @@
 import React from 'react';
 import fatbunny from './fatbunny.jpeg';
-import navbar from './NavBar/index.js';
 
 console.log(fatbunny);
 
 const HomePage = () => {
     
     return (
-        
         <div>
             <center>
                 <header> 
