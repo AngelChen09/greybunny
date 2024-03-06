@@ -1,18 +1,21 @@
-import React from "react";
+import React from 'react';
+import fatbunny from './fatbunny.jpeg';;
+
+console.log(fatbunny);
 
 const HomePage = () => {
     
     return (
         <div>
-            <header>
-                <center> 
+            <center>
+                <header> 
                     <h1>My Grey Bunny</h1>
-                </center>
-            </header>
-            <main>
-                <p>Welcome to my simple React homepage! This is a basic example of a React project.</p>
-                <img src="https://via.placeholder.com/300" alt="placehold" />
-            </main>
+                </header>
+                <main>
+                    <p>I love fat bunnies &lt;3</p>   
+                    <img src={fatbunny} alt="fatbunny<3" />
+                </main>
+            </center>
         </div>
     );
 }
