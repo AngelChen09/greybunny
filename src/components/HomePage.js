@@ -8,12 +8,12 @@ const HomePage = () => {
     return (
         <div>
             <center>
-                <header> 
-                    <h1>My Grey Bunny</h1>
+                <header>
+                    <h1> Meet the bunny </h1>
                 </header>
                 <main>
+                    <img src={fatbunny} alt="fatbunny<3" /> 
                     <p>I love fat bunnies &lt;3</p>   
-                    <img src={fatbunny} alt="fatbunny<3" />
                 </main>
             </center>
         </div>
