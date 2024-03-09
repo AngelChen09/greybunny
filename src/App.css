@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Dekko&family=Madimi+One&display=swap');
+
+* {
+    /*font-family: sans-serif, 'Dekko', 'Madimi One';*/
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}

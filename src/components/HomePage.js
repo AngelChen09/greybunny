@@ -9,7 +9,7 @@ const HomePage = () => {
         <div>
             <center>
                 <header>
-                    <h1> Meet the bunny does this finally work</h1>
+                    <h1> Meet the bunny</h1>
                 </header>
                 <main>
                     <img src={fatbunny} alt="fatbunny<3" /> 
