@@ -17,14 +17,14 @@ const Navbar = () => {
         </NavLink>
         <Bars />
         <NavMenu>
-            <NavLink to="/AboutMe" activeStyle>
+            <NavLink to="/about" activeStyle>
                 About Me
             </NavLink>
-            <NavLink to="/services" activeStyle>
+            <NavLink to="/games" activeStyle>
                 Mini Games
             </NavLink>
-            <NavLink to="/contact-us" activeStyle>
-                Personal Projects
+            <NavLink to="/projects" activeStyle>
+                Projects
             </NavLink>
             
         </NavMenu>
