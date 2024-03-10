@@ -1,6 +1,8 @@
 import React from 'react';
 import construction from '../Media/under-construction.png';
 
+console.log(construction);
+
 const games = () => {
   return (
     <div>
