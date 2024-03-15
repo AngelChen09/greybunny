@@ -10,7 +10,7 @@ const about = () => {
         </header>
         <main>
             <p>Welcome to my website! My name is Angel and I'm a 18-year-old aspiring software developer.</p>
-            <p>I hope you can enjoy some of my works and feel free to reach me at ...</p>
+            <p>This website is currently under construction. Feel free to reach me at angelchen1929@gmail.com for any inquiries.</p>
         </main>
         </center>
     </div>
